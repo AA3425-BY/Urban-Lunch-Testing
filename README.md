@@ -1,43 +1,42 @@
 # Urban-Lunch-Testing
-Urban.Lunch – Proyecto de Pruebas de Aplicación Android
+Urban.Lunch – Android Application Testing Project
 
 ## Descripción del Proyecto
-Urban.Lunch es una aplicación Android para ordenar comidas desde restaurantes locales.
-Este repositorio documenta el proceso completo de pruebas realizadas en un entorno emulado con Android Studio, incluyendo diseño de casos de prueba, ejecución manual, detección de fallos y reporte de incidencias.
+Urban.Lunch is an Android application for ordering meals from local restaurants.
+This repository documents the complete testing process performed in an emulated environment using Android Studio, including test case design, manual execution, bug detection, and issue reporting.
 
-## Objetivos de las Pruebas
+## Test Objectives
 
--Validar la funcionalidad principal de la aplicación.
--Verificar la usabilidad y consistencia de la interfaz.
--Comprobar el comportamiento de botones físicos y elementos interactivos.
--Identificar errores críticos y reportarlos en JIRA.
--Asegurar que la app cumple con los requisitos funcionales.
+-Validate the application's core functionality.
+-Verify the interface's usability and consistency.
+-Check the behavior of physical buttons and interactive elements.
+-Identify critical errors and report them in Jira.
+-Ensure the app meets the functional requirements.
 
-## Actividades Realizadas
--Instalé y probé el APK en un emulador de Android Studio, validando la UI y la experiencia general del usuario.
--Diseñé escenarios y casos de prueba basados en los requisitos funcionales.
--Ejecuté pruebas manuales de interacción:
--botones físicos (back, home, volumen)
--navegación entre pantallas
--selección de productos
--flujo de pedido
--Detecté y documenté incidencias críticas en JIRA, incluyendo pasos para reproducir, severidad, prioridad y evidencia visual.
+## Activities Performed
+-I installed and tested the APK on an Android Studio emulator, validating the UI and overall user experience.
+-I designed test scenarios and cases based on the functional requirements.
+-I ran manual interaction tests:
+ physical buttons (back, home, volume)
+ navigation between screens
+ product selection
+ order flow
+-I identified and documented critical issues in Jira, including steps to reproduce them, severity, priority, and visual evidence.
 
-## Herramientas y Tecnologías
--Android Studio – Emulación y ejecución de la app
--JIRA – Gestión y reporte de bugs
--Manual Testing
--Diseño de casos de prueba
--Planificación de pruebas
--Análisis de requisitos
+## Tools and Technologies
+-Android Studio – App emulation and execution
+-JIRA – Bug management and reporting
+-Manual testing
+-Test case design
+-Test planning
+-Requirements analysis
 
-## Resultados del Proyecto
--Identificación de bugs críticos que afectaban la navegación y la experiencia del usuario.
--Mejora de la estabilidad general de la aplicación gracias a reportes detallados.
--Documentación clara y organizada para facilitar el trabajo del equipo de desarrollo.
+## Project Results
+- Identification of critical bugs affecting navigation and user experience.
+- Improvement of overall application stability through detailed reports.
+- Clear and organized documentation to facilitate the development team's work.
 
-## Contacto
-Si deseas ver más proyectos de QA o colaborar:
+## Contact
 Adiaris Santana | QA Tester
 LinkedIn: http://www.linkedin.com/in/adiaris-santana
 Email: adiarissantana1@gmail.com
